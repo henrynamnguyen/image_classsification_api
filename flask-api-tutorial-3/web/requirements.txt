@@ -1,0 +1,8 @@
+Flask
+flask_restful
+pymongo
+numpy
+requests
+tensorflow
+tensorflow_hub
+Pillow
